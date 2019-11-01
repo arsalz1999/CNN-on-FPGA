@@ -1,2 +1,2 @@
 # CNN-on-FPGA
-Implemented a CNN architecture on a Pynq Xilix Board
+Implemented a CNN Model on a Pynq Xilinx Board
