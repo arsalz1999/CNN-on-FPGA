@@ -1,2 +1,5 @@
 # CNN-on-FPGA
-Implemented a basic convolutional neural network for performing real-time doodle classification on a Xilinx PYNQ P1 FPGA Board
+
+First Year project for Electronics and Information Engineering, at Imperial College London. 
+
+The user draws on a whiteboard infront of a camera, the video feed is then displayed with the algorithms prediction on the screen.
