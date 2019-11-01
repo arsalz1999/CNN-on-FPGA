@@ -1,16 +1,7 @@
 #include <stdint.h>
 #include "hls_half.h"
 
-
 typedef half quant_t;
-
-
-
-// For now assume stride = 1, no padding (valid padding)
-// Assume RELU activation
-// uint8_t*** Conv2D_Naive(uint8_t input[H][W][C], uint8_t kernels[N_k][D_k][D_k][C], std::string padding) {
-
-
 
 void template_filter(volatile float* in_data, volatile float* out_data, int w, int h, int parameter_1) {
 	#pragma HLS INTERFACE s_axilite port=return
