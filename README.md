@@ -1,2 +1,2 @@
 # CNN-on-FPGA
-Implemented a CNN Model on a Pynq Xilinx Board
+Implemented a basic convolutional neural network for performing real-time doodle classification on a Xilinx PYNQ P1 FPGA Board
